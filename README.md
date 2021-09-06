@@ -12,8 +12,8 @@ The device is powered by ultra low-cost DHT-11 temperature and humidity sensor t
 
 ### Oled Display
 The Oled Display used is 0.96inch I2C , the device welcomes with a loading screen animation, displaying the title of the project.
-That bitmaps for it has been designed with the help of a youtube channel -[Volos Project](https://www.youtube.com/watch?v=0KGMFhFQ0YY)
-Caution: Bitmap arrays takes memory, so which limits the ability to put more logic in code and we have to make reduction in use of lot of bitmaps arrays to make enough space for rest of code.
+That bitmaps for it has been designed with the help of a youtube channel -[Volos Project](https://www.youtube.com/watch?v=0KGMFhFQ0YY) <br>
+**Caution:** Bitmap arrays takes memory, so which limits the ability to put more logic in code and we have to make reduction in use of lot of bitmaps arrays to make enough space for rest of code.
 
 ### User Input
 There are two input buttons, mode and set
